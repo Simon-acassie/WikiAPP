@@ -122,6 +122,7 @@
 
 	.rightcotent {
 		width: 78%;
+		//
 		height: 40rem;
 		background-color: #51513c;
 	}
